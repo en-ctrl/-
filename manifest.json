@@ -1,0 +1,19 @@
+{
+  "name": "種菜小幫手",
+  "short_name": "種菜小幫手",
+  "description": "記錄作物、採收日期與種植備註的小工具",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#faf7ee",
+  "theme_color": "#6f9272",
+  "lang": "zh-Hant",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
