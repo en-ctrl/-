@@ -1,12 +1,13 @@
-種菜小幫手
+種菜小幫手 v3
 
-使用方式：直接開啟 index.html 即可使用。
-資料會儲存在目前瀏覽器的 localStorage。
+1. 直接開啟 index.html 即可使用。
+2. 資料儲存在瀏覽器 localStorage。
+3. GitHub Pages：將 index.html 上傳到 Repository 根目錄後，在 Settings > Pages 啟用。
 
-GitHub Pages：
-1. 建立 GitHub Repository。
-2. 上傳 index.html。
-3. Settings > Pages。
-4. Deploy from a branch，選 main / (root)。
-
-目前天氣卡為介面示意值（28°C、降雨 20%），尚未串接即時天氣 API。
+本版更新：
+- 全站字體與按鈕加大，方便長輩操作
+- 新增白菜、高麗菜、小白菜、番茄、蘿蔔、萵苣、青江菜、蔥等快速作物建議
+- 新增紀錄為獨立頁面
+- 作物可點入詳細頁面
+- 完成狀態改為使用者手動按「標記已完成」，不再依日期自動結束
+- 已完成紀錄移到查詢頁的「已完成」分類
